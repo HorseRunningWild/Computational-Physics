@@ -6,3 +6,13 @@
 1. 常微分及偏微分方程求解（王龙）
 2. Monte Carlo方法、FFT及优化算法
 3. 机器学习及神经网络基本方法
+
+---
+## 2026/5/10 Update
+目前已经完成了3个Blog的撰写：
+
+1. [计算物理I: MCMC, Sample, FFT](https://mp.weixin.qq.com/s/NqoiDK4C1QnsXI3tnVWW2A)
+2. [计算物理II： Intro to Machine Learning](https://mp.weixin.qq.com/s/PcXfQhvZCBt1uLoXyUT3tg)
+3. [计算物理III：微分方程数值求解](https://mp.weixin.qq.com/s/eW38G3i5XY13Ln-RHrChRw)
+
+
