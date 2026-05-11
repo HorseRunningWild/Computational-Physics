@@ -10,7 +10,7 @@
 
 除了笔者重新整理的代码之外，也会放上作业题，即`PartX_HW.ipynb`。在作业题中，会尤其针对一些`code`细节详细展开讲解，比如为什么在某些地方应该使用`lambda`函数等等.
 
-$\mathcal{If\,Useful\, ,\,Do\,Not\,Forget\,A\,Star\,!}$
+$If\,Useful\, ,\,Do\,Not\,Forget\,A\,Star\,!$
 
 ---
 ## 2026/5/10 Update
