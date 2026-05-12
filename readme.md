@@ -21,3 +21,7 @@ $If \quad Useful \quad ,\quad Do \quad Not \quad Forget \quad A \quad Star!$
 3. [计算物理III：微分方程数值求解](https://mp.weixin.qq.com/s/eW38G3i5XY13Ln-RHrChRw)
 
 
+---
+## 2026/5/12 Update
+
+$\texttt{Part One Two Three}$已经整理完成，连带真题也一并上传到了Repo当中。注意`.npy`和`.jpg`的图像，为代码中进行Demo的必要因素。
